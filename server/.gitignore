@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+build/
+dist/
+
+# React client
+../client/node_modules/
+../client/build/
+../client/.env
+
